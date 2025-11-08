@@ -81,10 +81,10 @@ def members_contact():
     {
         
             "name": "Isaac Christian Pelingen",
-            "image": "static/images/members/pic_5.png",
+            "image": "static/images/members/isaac.jpg",
             "links": {
                 "facebook": "https://www.facebook.com/share/1FmtJqYkC4/",
-                "email": "Mail to: pelingenisaac@gmail.com",
+                "email": "mailto:pelingenisaac@gmail.com",
                 "github": "https://github.com/xiin112",
         }
     }, 
