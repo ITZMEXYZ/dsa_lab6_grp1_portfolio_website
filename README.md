@@ -23,11 +23,11 @@
 │   │
 │   └── images/
 │       ├── members/
+│       │   ├── isaac.jpg
+│       │   ├── jl.jpg
 │       │   ├── mark.jpg
 │       │   ├── pic_2.png
-│       │   ├── pic_3.png
 │       │   ├── pic_4.png
-│       │   ├── pic_5.png
 │       │   ├── pic_6.png
 │       │   └── zy.jpg
 │       │
