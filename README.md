@@ -25,10 +25,10 @@
 │       ├── members/
 │       │   ├── isaac.jpg
 │       │   ├── jl.jpg
+│       │   ├── kyle.png
 │       │   ├── mark.jpg
-│       │   ├── pic_2.png
-│       │   ├── pic_4.png
 │       │   ├── pic_6.png
+│       │   ├── sophia.jpg
 │       │   └── zy.jpg
 │       │
 │       └── background.mp4
