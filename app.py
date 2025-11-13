@@ -51,11 +51,11 @@ def members_contact():
     {
         
             "name": "Kyle Isaac Celin",
-            "image": "static/images/members/pic_2.png",
+            "image": "static/images/members/kyle.png",
             "links": {
                 "facebook": "https://www.facebook.com/cee.the.lin.e",
-                "email": "https://youtube.com/@zybanezz",#need update
-                "github": "https://tiktok.com/@zybanezz",#need update
+                "email": "mailto:celinkyleisaac@gmail.com",
+                "github": "https://github.com/ceetheline",
         }
     }, 
     {
