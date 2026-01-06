@@ -3,9 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% block title %}Group 11's Portfolio{% endblock %}</title>
+  <title>{% block title %}SEVEN11's Portfolio{% endblock %}</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
   <link rel="icon" href="{{ url_for('static', filename='images/website-icon.png') }}">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    integrity="sha512-QkV/S+Q5eT9Wvklk5QyIQh6zU+sJ2t3t1sUldXqPjDFA45+NShR+0kJS+0mO25QWkJc7KhxYuQ1j9cK7L+I5Zw=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+    />
+
 </head>
 <body>
   <video autoplay loop muted playsinline id="bg-video">
@@ -14,7 +22,7 @@
 
   <header>
     <nav>
-      <h1 class="logo">GROUP<span>11</span></h1>
+      <h1 class="logo">SEVEN<span>11</span></h1>
       <ul>
         <li><a href="{{ url_for('index') }}">Home</a></li>
         <li><a href="{{ url_for('works') }}">Projects</a></li>
